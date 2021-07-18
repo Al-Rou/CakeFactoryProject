@@ -16,7 +16,7 @@ public class Solution {
             if(A[i] > B[i])
             {
                 System.out.println("Error in values of A and B, index " + i);
-                break;
+                return 0;
             }
             for(int j = A[i]; j <= B[i]; j++)
             {

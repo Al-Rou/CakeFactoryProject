@@ -3,7 +3,7 @@ public class CakeFactory {
     public static void main(String[] args)
     {
         Solution s = new Solution();
-        /*//First example
+        /*//First Test Case
         int N = 5;
         int K = 3;
         int[] A = {1, 1, 4, 1, 4};
@@ -11,7 +11,7 @@ public class CakeFactory {
         int[] C = {1, 2, 2, 3, 3};
         //The answer is 3 */
 
-        /*//Second example
+        /*//Second Test Case
         int N = 6;
         int K = 4;
         int[] A = {1, 2, 1, 1};
@@ -19,7 +19,7 @@ public class CakeFactory {
         int[] C = {1, 2, 3, 4};
         //The answer is 2 */
 
-        /*//Third example
+        /*//Third Test Case
         int N = 3;
         int K = 2;
         int[] A = {1, 3, 3, 1, 1};
@@ -27,7 +27,7 @@ public class CakeFactory {
         int[] C = {1, 2, 1, 2, 2};
         //The answer is 1 */
 
-        //Fourth example
+        //Fourth Test Case
         int N = 5;
         int K = 2;
         int[] A = {1, 1, 2};
